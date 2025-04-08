@@ -1,0 +1,2 @@
+[19-Dec-2024 02:23:41 America/Boise] PHP Warning:  file_get_contents(https://aurma.health/dashboard/api/health_metrics_api.php?action=get_user_info&amp;user_id=1): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/hfbmbhmy/public_html/aurma/dashboard/display_user_data.php on line 6
